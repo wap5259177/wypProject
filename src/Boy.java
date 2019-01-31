@@ -26,7 +26,7 @@ public class Boy {
         boy.name ="小白cai";
         System.out.println(boy.age);
         System.out.println(boy.name);
-        System.out.println(boy.name+boy.age+"岁了");
+        System.out.println(boy.name+boy.age+"岁了              ");
     }
     }
 
